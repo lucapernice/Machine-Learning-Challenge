@@ -9,3 +9,5 @@
 -Challenge 2: Kernel Ridge Regression, Kernel PCA and SVM
 
 -Challenge 3: Artificial Neural Networks
+
+-SMOTE introduction and relative Colab Notebook
