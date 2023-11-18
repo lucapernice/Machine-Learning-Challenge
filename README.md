@@ -1,5 +1,5 @@
 
-# Codice per il Corso di Introduzione al Machine Learning
+# Introduction to Machine Learning course 
 
 
 -Challenge 0: Data Cleaning, Regularized Logistic Regression and Model Assessment
